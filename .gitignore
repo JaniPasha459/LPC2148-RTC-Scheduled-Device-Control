@@ -1,0 +1,12 @@
+@'
+**/.vs/
+**/.vscode/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+*.user
+*.suo
+*.cache
+*.vsidx
+'@ | Set-Content .gitignore
