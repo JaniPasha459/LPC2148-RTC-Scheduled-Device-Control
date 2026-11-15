@@ -669,4 +669,4 @@ The project combines **RTC, LCD, keypad, GPIO, EINT0, Embedded C and scheduled d
 
 ## 👨‍💻 Author
 
-**Sudheer Nandipati**
+**Jani Pasha Shaik**
